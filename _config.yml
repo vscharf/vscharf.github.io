@@ -5,7 +5,7 @@ description: "Blog about the development of a static code analyzer capable of de
 baseurl: ""
 url: "http://vscharf.github.io"
 twitter_username: veitscharf
-github_username: vscharf 
+github_username: vscharf
 
 # Build settings
 markdown: kramdown
